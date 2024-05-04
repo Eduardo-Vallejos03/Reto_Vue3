@@ -27,6 +27,12 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local a 
     ```
     Clona el repositorio en la carpeta seleccionada
    
+3. **Accede al directorio clonado**:
+    ```
+    cd Reto_Vue3
+    
+    ```
+   
 4. **Instala las Dependencias**:
     ```
     npm install
@@ -34,16 +40,17 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local a 
     ```
     Instala todas las dependencias necesarias para el proyecto
    
-3. **Inicia el servidor**:
+5. **Inicia el servidor**:
     ```
     npm run serve
     ```
     Accede a la vista del proyecto con un servidor local
 
-4. **Visita la Aplicación en tu Navegador**:
+6. **Visita la Aplicación en tu Navegador**:
    
     Abre el navegador y navega al URL que se muestre en la terminal y podras tener una vista del proyecto
-   
+
+Con estos pasos, habrás clonado exitosamente el repositorio deseado en tu carpeta seleccionada. Ahora puedes comenzar a trabajar en los archivos, hacer cambios y administrar el proyecto localmente desde tu computadora.
 
 ***
 
