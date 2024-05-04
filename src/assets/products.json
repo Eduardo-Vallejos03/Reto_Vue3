@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "category": "sofa",
+        "name": "Sofá Moderno (Blanco)",
+        "price": 500,
+        "image": "img_sofa.png"
+    },
+    {
+        "id": 2,
+        "category": "sofa",
+        "name": "Sofá Moderno (Oscuro)",
+        "price": 500,
+        "image": "img_sofa2.png"
+    },
+    {
+        "id": 3,
+        "category": "silla",
+        "name": "Silla Decorativa Moderna",
+        "price": 200,
+        "image": "img_silla.png"
+    },
+    {
+        "id": 4,
+        "category": "silla",
+        "name": "Silla Decorativa Clásica",
+        "price": 200,
+        "image": "img_silla2.png"
+    },
+    {
+        "id": 5,
+        "category": "lampara",
+        "name": "Lámpara Decorativa",
+        "price": 100,
+        "image": "img_lampara.png"
+    },
+    {
+        "id": 6,
+        "category": "mesa",
+        "name": "Mesa Moderna",
+        "price": 450,
+        "image": "img_mesa.png"
+    }
+]
